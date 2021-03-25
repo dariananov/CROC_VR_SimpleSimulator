@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34b5aa57-9093-40e2-9416-7819a29f8593" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MVC/Machine/MachineModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE84F4A7-54DA-4A6B-B64F-CA409D40938A/c0/9bd34bcf/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/LevelLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MVC/AppState/AppStateModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/74/0d6fb9f2/EventArgs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MVC/AppState/Views/CanvasView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MVC/Machine/MachineController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Player/PlayerModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Player/PlayerView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Player/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/MachineContent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Mechanism/MechanismModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Mechanism/MechanismController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Mechanism/MachineModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Mechanism/MachineController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/MechanismView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Vies/InteractableView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Vies/Movable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Vies/Dragable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Vies/IInteractable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Vies/Draggable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Vies/LinearyDraggable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Vies/Interactable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Vies/Touchable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Vies/LinearlyDraggable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/AppState/CanvasView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/MaterialColorAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/LevelLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/AppState/Views/MistakeCanvasView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/AppState/Views/RuntimeCanvasView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/AppState/AppStateController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Views/Touchable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/MachineController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/MachineModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/AppState/Views/CanvasView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/AppState/Views/ResultCanvasView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/AppState/AppStateModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Views/Interactable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Views/LinearlyDraggable.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q7YEYHYUQXOfaC11ViHpMZkng7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="11216">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="11216" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34b5aa57-9093-40e2-9416-7819a29f8593" name="Default Changelist" comment="" />
+      <created>1616431985589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616431985589</updated>
+      <workItem from="1616431991897" duration="8219000" />
+      <workItem from="1616573362256" duration="34938000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="453" height="464" key="DebuggerActiveHint" timestamp="1616616345237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="453" height="464" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1616616345237" />
+    <state width="1877" height="29" key="GridCell.Tab.0.bottom" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.0.center" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.0.left" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.0.right" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.1.bottom" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.1.center" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.1.left" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.1.right" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.2.bottom" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.2.center" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.2.left" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.2.right" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.3.bottom" timestamp="1616667560515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560515" />
+    <state width="1877" height="29" key="GridCell.Tab.3.center" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.3.left" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state width="1877" height="29" key="GridCell.Tab.3.right" timestamp="1616667560514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="29" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616667560514" />
+    <state x="733" y="221" key="RiderGenerateDialog" timestamp="1616580557600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="221" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616580557600" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1616664917314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616664917314" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Vies/LinearlyDraggable.cs</url>
+          <line>52</line>
+          <properties documentPath="C:\Users\79647\Documents\SimpleSimulator\Assets\Scripts\MVC\Machine\Vies\Draggable.cs" initialLine="59">
+            <startOffsets>
+              <option value="1468" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1567" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/MVC/Machine/Vies/Touchable.cs</url>
+          <line>15</line>
+          <properties documentPath="C:\Users\79647\Documents\SimpleSimulator\Assets\Scripts\MVC\Machine\Vies\Touchable.cs" initialLine="15">
+            <startOffsets>
+              <option value="366" />
+            </startOffsets>
+            <endOffsets>
+              <option value="380" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
