@@ -1,4 +1,4 @@
-# CROC_VR_SimpleSimulator
+VR_SimpleSimulator
 
 Тренажер по замене предохранителя в условном электрическом устройстве.
 
